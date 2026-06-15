@@ -70,7 +70,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img width="35" src="https://img.icons8.com/color/48/uml.png"/>
+
 
 
 </p>
@@ -87,22 +87,23 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 
 ---
 
+
 ## 📊 Estatísticas
 
-<p>
+<div align="center">
 
 <img
-align="left"
 height="180em"
 src="https://github-readme-stats.vercel.app/api?username=sofiapetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
-align="left"
 height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15"
 />
 
-</p>
+</div>
+
+
 
 
