@@ -11,7 +11,7 @@ Sou apaixonada por tecnologia e estou constantemente buscando aprender e desenvo
 Além dos estudos, compartilho minha trajetória e aprendizados através do meu LinkedIn, onde publico experiências, projetos e evolução na área da tecnologia.
 
 <p align="left">
-    <a href="https://github.com/Sofiapetry?tab=repositories&sort=stargazers">
+    <a href="https://github.com/sofiapetry?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -84,14 +84,14 @@ Além dos estudos, compartilho minha trajetória e aprendizados através do meu 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sofiapetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=sofiapetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
