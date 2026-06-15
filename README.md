@@ -31,63 +31,81 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 
 ---
 
-### Linguagens e Tecnologias 🤖
+## 💻 Linguagens
 
 <p align="left">
 
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="JSON" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/>
+</p>
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+---
 
-<img align="left" alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="NetBeans" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+## 🛠️ Ferramentas e IDEs
 
-<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<p align="left">
 
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-<img align="left" alt="UML" width="30px" src="https://img.icons8.com/color/48/uml.png"/>
-<img align="left" alt="IoT" width="30px" src="https://img.icons8.com/color/48/internet-of-things.png"/>
-<img align="left" alt="Hardware" width="30px" src="https://img.icons8.com/color/48/motherboard.png"/>
-<img align="left" alt="Software" width="30px" src="https://img.icons8.com/color/48/source-code.png"/>
+</p>
+
+---
+
+## 📚 Outras Tecnologias e Conhecimentos
+
+<p align="left">
+
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+
+<img width="35" src="https://img.icons8.com/color/48/uml.png"/>
+<img width="35" src="https://img.icons8.com/color/48/internet-of-things.png"/>
+<img width="35" src="https://img.icons8.com/color/48/motherboard.png"/>
+<img width="35" src="https://img.icons8.com/color/48/source-code.png"/>
 
 </p>
 
 <br/>
-<br/>
+
+🧩 UML  
+🌐 IoT  
+🖥️ Hardware  
+⚙️ Software  
+📱 Desenvolvimento Mobile  
+💾 Banco de Dados  
+☕ Backend Java  
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
+
 <img
 align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px;"
+height="180em"
 src="https://github-readme-stats.vercel.app/api?username=sofiapetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
 align="left"
-alt="Tecnologias"
-height="200"
+height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15"
 />
 
 </p>
-```
+
 
