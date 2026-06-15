@@ -8,21 +8,21 @@ Atualmente, estou no 3º ano do Ensino Médio e sou formada no curso Técnico em
 
 Sou apaixonada por tecnologia e estou constantemente buscando aprender e desenvolver novas habilidades em programação, banco de dados, sistemas e desenvolvimento de software.
 
-Além dos estudos, compartilho minha trajetória e aprendizados através do meu LinkedIn, onde publico experiências, projetos e evolução na área da tecnologia".
+Além dos estudos, compartilho minha trajetória e aprendizados através do meu LinkedIn, onde publico experiências, projetos e evolução na área da tecnologia.
 
 <p align="left">
     <a href="https://github.com/Sofiapetry?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Sofiapetry?color=BDA03E&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Sofiapetry?color=BDA03E&style=for-the-badge&labelColor=BDA03E&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Sofiapetry?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=471466&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=471466&labelColor=471466&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -91,7 +91,7 @@ Além dos estudos, compartilho minha trajetória e aprendizados através do meu 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
