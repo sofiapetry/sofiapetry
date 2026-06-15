@@ -87,22 +87,28 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 
 ---
 
-
 ## 📊 Estatísticas
 
-<div align="center">
-
+<table>
+<tr>
+<td>
 <img
 height="180em"
 src="https://github-readme-stats.vercel.app/api?username=sofiapetry&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
+</td>
 
+<td>
 <img
 height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapetry&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15"
 />
+</td>
 
-</div>
+</tr>
+</table>
+
+
 
 
 
