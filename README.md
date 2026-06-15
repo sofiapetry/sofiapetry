@@ -45,7 +45,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/>
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
 
 </p>
 
@@ -70,11 +70,8 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-
 <img width="35" src="https://img.icons8.com/color/48/uml.png"/>
-<img width="35" src="https://img.icons8.com/color/48/internet-of-things.png"/>
-<img width="35" src="https://img.icons8.com/color/48/motherboard.png"/>
-<img width="35" src="https://img.icons8.com/color/48/source-code.png"/>
+
 
 </p>
 
@@ -86,7 +83,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SofiaPetry?color=47
 ⚙️ Software  
 📱 Desenvolvimento Mobile  
 💾 Banco de Dados  
-☕ Backend Java  
+
 
 ---
 
